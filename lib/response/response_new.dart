@@ -48,6 +48,8 @@ class Articles {
     publishedAt = json['publishedAt'];
     content = json['content'];
   }
+
+  
 }
 
 class Source {
